@@ -1,6 +1,11 @@
-# Hi there, I'm Kesavan 
+<h1 align="left"> Hi there 👋, I'm Kesavan <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 ## I'm a Student, Teacher, and Developer
+
+[![Visitors](https://komarev.com/ghpvc/?username=kesavan-raman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Kesavan-Raman)
+[![GitHub followers](https://img.shields.io/github/followers/kesavan-raman.svg?style=social&label=Follow)](https://github.com/Kesavan-Raman?tab=followers)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kesavan-Raman)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kesavan-Raman)
 
 - 🔭 I just launched my Youtube Channel : [Topper's Byte](https://www.youtube.com/c/ToppersByte/featured)
 - 🌱 I’m New to Programming, So I'm Learning Everything 🤣
@@ -8,6 +13,7 @@
 - 🥅 2021 Goals: **Mastering Data Structures and Algorithms**
 - ⚡ Fun fact: I love Share Market and Buying Stocks
 - 💬 Ask me about **Why Linux is Better than Windows? 🤣**
+
 
 ### Connect with me:
 
@@ -18,16 +24,38 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools, I am Using:
+#### Data Science and ML
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/></a>
+<a><img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=0ff"/></a>
+<a><img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/></a>
+
+<a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=Seaborn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
+
+<a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Keras%20-%23FFFFF0.svg?&style=for-the-badge&logo=Keras&logoColor=red"/></a>
+</br>
+
+
+#### For Development:
+
+<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C++%20-%239c9c9c.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=00599C"/></a>
+<a><img src="(https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c">
 
 <br />
 <br />
 
+**My Streak**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact" alt="kesavan-raman" /></p>
+
+**My Stats**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en" alt="kesavan-raman" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&" alt="kesavan-raman" /></p>
 
 
