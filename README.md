@@ -55,12 +55,12 @@
 
 
 
-<h2 align="Center"> My Streak and Stats </h3>
+<h2 align="Center"> My Stats and Streak </h3>
 
 <p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&">
 <img src = "https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact">
 </p>
 
 
