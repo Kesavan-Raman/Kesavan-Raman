@@ -42,21 +42,28 @@
 
 #### For Development:
 
-<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+[![C](https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 <a><img src="https://img.shields.io/badge/C++%20-%239c9c9c.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=00599C"/></a>
-<a><img src="(https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c">
+<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+
+---
 
 <br />
 <br />
 
-**My Streak**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact" alt="kesavan-raman" /></p>
 
-**My Stats**
+
+
+<h2 align="Center"> My Streak </h3>
+
+<p align = "center">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&theme=dracula">
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en" alt="kesavan-raman" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&" alt="kesavan-raman" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact" alt="kesavan-raman" /></p>
 
 
 ### 📕 Latest Blog Posts
