@@ -1,16 +1,16 @@
-<h1 align="left"> Hi there 👋, I'm Kesavan <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="left"> Hi Devs 👋, I'm Kesavan <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-## I'm a Student, Teacher, and Developer
+### I'm a Student, Developer and Youtuber
 
 [![Visitors](https://komarev.com/ghpvc/?username=kesavan-raman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Kesavan-Raman)
 [![GitHub followers](https://img.shields.io/github/followers/kesavan-raman.svg?style=social&label=Follow)](https://github.com/Kesavan-Raman?tab=followers)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kesavan-Raman)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kesavan-Raman)
 
-- 🔭 I just launched my Youtube Channel : [Topper's Byte](https://www.youtube.com/c/ToppersByte/featured)
 - 🌱 I’m New to Programming, So I'm Learning Everything 🤣
 - 👯 I’m looking to make Connections and Colaborate with Peoples
 - 🥅 2021 Goals: **Mastering Data Structures and Algorithms**
+- 🔭 I just launched my Youtube Channel : [Topper's Byte](https://www.youtube.com/c/ToppersByte/featured)
 - ⚡ Fun fact: I love Share Market and Buying Stocks
 - 💬 Ask me about **Why Linux is Better than Windows? 🤣**
 
