@@ -48,14 +48,14 @@
 
 ---
 
-<h2 align="center"> My Stats and Streak </h3>
+<h2 align="center"> My Streak </h3>
 
-<p align = "left">
+<p align = "center">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&">
 </p>
 
 
-<h2 align="left"> Languages I Worked! </h3>
+<h2 align="center"> My Stats </h3>
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en">
