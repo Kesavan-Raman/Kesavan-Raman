@@ -55,15 +55,13 @@
 
 
 
-<h2 align="Center"> My Streak </h3>
+<h2 align="Center"> My Streak and Stats </h3>
 
 <p align = "center">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&theme=dracula">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&">
+<img src = "https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact">
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en" alt="kesavan-raman" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact" alt="kesavan-raman" /></p>
 
 
 ### 📕 Latest Blog Posts
@@ -79,4 +77,3 @@
 [youtube]: https://www.youtube.com/c/ToppersByte
 [instagram]: https://www.instagram.com/r_kesavan__/
 [linkedin]: https://www.linkedin.com/in/kesavan-raman-b76734173/
-
