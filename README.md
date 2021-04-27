@@ -48,18 +48,18 @@
 
 ---
 
-<h2 align="left"> My Stats and Streak </h3>
+<h2 align="center"> My Stats and Streak </h3>
 
 <p align = "left">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&">
-<img src = "https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en">
 </p>
 
 
 <h2 align="left"> Languages I Worked! </h3>
 
-<p align = "left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact">
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=kesavan-raman&show_icons=true&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesavan-raman&show_icons=true&locale=en&layout=compact&line_height=30&">
 </p>
 
 ### 📕 Latest Blog Posts
