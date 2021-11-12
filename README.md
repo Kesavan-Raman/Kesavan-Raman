@@ -10,7 +10,7 @@
 - 🌱 I’m New to Programming, So I'm Learning Everything 🤣
 - 👯 I’m looking to make **Connections and Colaborate with Peoples***
 - 🥅 2021 Goals: **Mastering Data Structures and Algorithms**
-- 🔭 I just launched my Youtube Channel : [Topper's Byte](https://www.youtube.com/c/ToppersByte/featured)
+- 🔭 I just launched my Youtube Channel 
 - ⚡ Fun fact: I love Share Market and Buying Stocks
 - 💬 Ask me about **Why Linux is Better than Windows? 🤣**
 
