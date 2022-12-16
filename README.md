@@ -7,12 +7,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kesavan-Raman)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kesavan-Raman)
 
-- 🌱 I’m New to Programming, So I'm Learning Everything 🤣
-- 👯 I’m looking to make **Connections and Colaborate with Peoples***
-- 🥅 2022 Goals: **Mastering Data Structures and Algorithms**
-- 🔭 I just launched my Youtube Channel 
-- ⚡ Fun fact: I love Share Market and Buying Stocks
-- 💬 Ask me about **Why Linux is Better than Windows? 🤣**
+
+- 👯 I’m looking to make **Connections and Colaborate with Peoples with similar interest***
+- 🥅 2023 Goals: **Mastering Data Structures and Algorithms**
+- ⚡ Fun fact: I love to travel
+- 💬 Ask me about **Artificial Intelligence? 🤣**
 
 
 ### Connect with me:
