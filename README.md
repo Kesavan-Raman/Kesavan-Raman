@@ -11,7 +11,6 @@
 - 👯 I’m looking to make **Connections and Colaborate with Peoples with similar interest**
 - 🥅 2023 Goals: **Mastering Data Structures and Algorithms**
 - ⚡ Fun fact: I love to travel
-- 💬 Ask me about **Artificial Intelligence? **
 
 
 ### Connect with me:
